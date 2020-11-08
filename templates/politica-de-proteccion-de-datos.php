@@ -69,7 +69,7 @@
 
             <p>Finalmente, ANA declara que asegura al titular de los datos personales, el ejercicio de los derechos de información,
             acceso, rectificación, supresión o cancelación y oposición que se detallan en la Ley de Protección de Datos Personales, y 
-            su Reglamento,  enviando una solicitud a <a href="mailto:informes@ANAhuaman.com">informes@ANAhuaman.com</a></p>
+            su Reglamento,  enviando una solicitud a terapias@descubriendonuestraluz.com</p>
         </div>
     </div>                
 </div>
