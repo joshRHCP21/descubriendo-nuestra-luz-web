@@ -76,7 +76,7 @@
           <p>Bienvenido a Descubriendo Nuestra Luz. Aquí encontrarás una manera diferente de entender tu cuerpo, tu mente y tu alma, así como una propuesta alternativa para mejorar tu vida mediante diversas terapias holísticas.
           Te invito a que me conozcas y que juntos descubramos tu luz.</p>
           <br>
-          <a href="./about.html" class="btn btn-primary text-white px-4">Conoce más</a>
+          <a href="acerca-de-mi.php" class="btn btn-primary text-white px-4">Conoce más</a>
         </div>
       </div>
     </div>
@@ -91,14 +91,13 @@
           <h2 class="site-section-heading text-uppercase font-secondary mb-5">DESCUBRE TU LUZ INTERIOR</h2>
           <p>"Yo dormía y soñaba que la Vida era Alegría. Desperté y vi que la Vida era Servicio. Serví y vi que el Servicio era Alegría" (Tagore)</p>
           <br>
-          <a href="./services.html" class="btn btn-primary text-white px-4">Conoce más</a>
+          <a href="terapias.php" class="btn btn-primary text-white px-4">Conoce más</a>
           </p>  
         </div>
       </div>
     </div>
   </div>
-    
-
+   
   <div class="site-section ">
       <div class="container">
         <div class="row">
@@ -116,7 +115,7 @@
                 <div class="media-image-body">
                   <h2 class="font-secondary text-uppercase">Terapia Bioenergética y Sintergética</h2>
                   <p>En la bioenergética el terapeuta busca integrar aquello que,  en algún momento de la vida de su paciente, sufrió la pérdida de su armonía...</p>
-                  <p><a href="./terapias/bionergetica.html" class="btn btn-primary text-white px-4">Leer más...</a></p>
+                  <p><a href="ver-terapia.php?terapia=t-bionergetica" class="btn btn-primary text-white px-4">Leer más...</a></p>
                 </div>
               </div>
               <div class="media-image">
@@ -125,7 +124,7 @@
                   <h2 class="font-secondary text-uppercase">Terapia de Flores de Bach</h2>
                   <p>
                     Las distintas situaciones cotidianas y el modo de vida moderno muchas veces hacen que nos sintamos de una manera muy distinta a como necesitamos para disfrutar de...</p>
-                  <p><a href="./terapias/flores-de-bach.html" class="btn btn-primary text-white px-4">Leer más...</a></p>
+                  <p><a href="ver-terapia.php?terapia=t-flores-bach" class="btn btn-primary text-white px-4">Leer más...</a></p>
                 </div>
               </div>
               <div class="media-image">
@@ -133,7 +132,7 @@
                 <div class="media-image-body">
                   <h2 class="font-secondary text-uppercase">Terapia de Constelaciones Individuales</h2>
                   <p>La terapia de la constelación está basada en los Órdenes del Amor de Bert Hellinger. Es una metodología sistémica que, a partir de una situación...</p>
-                  <p><a href="./terapias/constelaciones-individuales.html" class="btn btn-primary text-white px-4">Leer más...</a></p>
+                  <p><a href="ver-terapia.php?terapia=t-sistematica" class="btn btn-primary text-white px-4">Leer más...</a></p>
                 </div>
               </div>
             </div>
@@ -142,7 +141,7 @@
       </div>
     </div>
     
-    <div class="site-section block-14 nav-direction-white">
+  <div class="site-section block-14 nav-direction-white">
 
       <div class="container">
         
@@ -200,17 +199,6 @@
       </div>
       
     </div>
-
-
-    <div class="py-5 bg-primary">
-      <div class="container">
-        <div class="row align-items-center justify-content-center">
-          <div class="col-md-6 text-center mb-3 mb-md-0">
-            <h2 class="text-uppercase text-white mb-4" data-aos="fade-up">Empieza tu nuevo cambio</h2>
-            <a href="./contact.html" class="btn btn-bg-primary font-secondary text-uppercase" data-aos="fade-up" data-aos-delay="100">Contáctanos</a>
-          </div>
-        </div>
-      </div>
-    </div>
+    <?php include('inc/contact-section.php') ?>
 
 <?php include('inc/footer.php') ?>
