@@ -1,8 +1,8 @@
 <?php include('inc/header.php') ?>  
-<div class="site-blocks-cover inner-page overlay" style="background-image: url(assets/images/infusion.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
+<div class="site-blocks-cover inner-page overlay" style="background-image: url(assets/images/contacto-00.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
     <div class="row align-items-center justify-content-center">
     <div class="col-md-5 text-center" data-aos="fade">
-        <h1 class="text-uppercase">Conctáctanos</h1>          
+        <h1 class="text-uppercase">Contáctanos</h1>          
     </div>
     </div>
 </div> 
